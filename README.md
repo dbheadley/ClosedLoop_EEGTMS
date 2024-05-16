@@ -5,7 +5,7 @@ This repository contains code for running and analyzing a closed-loop EEG/TMS sy
 ## Installation instructions
 
 To run the MATLAB code that analyzes the performance of system: 
-1. Place the files found in the MATLAB directory into a folder in your MATLAB environment path. Keep the files in the same folder, since the example script assumes that the test data is in the same directory.
+1. Place the files found in the MATLAB directory into a folder in your MATLAB environment path.
 2. Install the [circstat toolbox](https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics) for MATLAB.
 
 ## Output of ClosedLoopPerf.m
